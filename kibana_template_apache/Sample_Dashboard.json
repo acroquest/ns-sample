@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "645b7eb0-5154-11e7-bb1a-092c8e627440",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Dashboard_ApacheLog",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"col\":1,\"id\":\"baaea5a0-3c44-11e7-977f-0bf513fbc354\",\"panelIndex\":1,\"row\":1,\"size_x\":7,\"size_y\":4,\"type\":\"visualization\"},{\"col\":8,\"id\":\"8faa3fb0-43f4-11e7-b557-410a11fc7f02\",\"panelIndex\":3,\"row\":1,\"size_x\":5,\"size_y\":3,\"type\":\"visualization\"},{\"col\":8,\"id\":\"ce4662d0-43f4-11e7-b557-410a11fc7f02\",\"panelIndex\":4,\"row\":7,\"size_x\":5,\"size_y\":2,\"type\":\"visualization\"},{\"col\":8,\"id\":\"61043b70-50a6-11e7-9846-23e5876aaf54\",\"panelIndex\":5,\"row\":4,\"size_x\":5,\"size_y\":3,\"type\":\"visualization\"},{\"col\":1,\"id\":\"d5e2c010-50a6-11e7-aeb4-29937580a7e0\",\"panelIndex\":6,\"row\":5,\"size_x\":7,\"size_y\":4,\"type\":\"visualization\"}]",
+      "optionsJSON": "{\"darkTheme\":false}",
+      "uiStateJSON": "{}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "now",
+      "timeFrom": "now-24h",
+      "refreshInterval": {
+        "display": "Off",
+        "pause": false,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[{\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"*\"}}}],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
